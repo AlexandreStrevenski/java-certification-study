@@ -5,5 +5,6 @@ public class Main {
         SampleClass sc = new SampleClass();
         sc.someMethod();
         sc.someDefaultMethod();
+
     }
 }

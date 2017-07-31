@@ -2,9 +2,9 @@ package interfaces;
 
 public interface SampleInterface {
 
-    public void someMethod();
+    void someMethod();
 
-    public default void someDefaultMethod(){
+    default void someDefaultMethod(){
         System.out.println("default someDefaultMethod");
     }
 }
