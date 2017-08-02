@@ -8,5 +8,8 @@ public class Q3 {
         int a[] = {1,2,053,4};
         int b[][] = {{1,2,4},{2,2,1},{0,43,2}};
         System.out.println(" " + (a[3] == b[0][2]));
+
+        int x = 043;
+        System.out.println(x);
     }
 }
