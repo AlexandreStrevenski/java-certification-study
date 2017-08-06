@@ -1,4 +1,4 @@
-package ocajp8.examples;
+package examples;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

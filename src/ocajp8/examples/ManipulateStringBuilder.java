@@ -1,4 +1,4 @@
-package ocajp8.examples;
+package examples;
 
 public class ManipulateStringBuilder {
 
